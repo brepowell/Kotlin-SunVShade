@@ -1,8 +1,10 @@
 # SunVShade
 My first two-page app using Android Studio and Kotlin.
+Page 1 has a button called "find shade"
+Page 2 has a button called "find sun"
 
-<img src="2-page-navigation-page1.jpg" width = "600">
-<img src="2-page-navigation-page2.jpg" width = "600">
+<img src="2-page-navigation-page1.jpg" width = "700">
+<img src="2-page-navigation-page2.jpg" width = "700">
 
 # Implementation 
 I created this using Android Studio as my IDE. This was my first time using Kotlin.
