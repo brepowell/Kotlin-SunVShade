@@ -1,8 +1,8 @@
 # SunVShade
 My first two-page app using Android Studio and Kotlin.
 
-<img src="2-page-navigation-page1.jpg" width = "400">
-<img src="2-page-navigation-page2.jpg" width = "400">
+<img src="2-page-navigation-page1.jpg" width = "600">
+<img src="2-page-navigation-page2.jpg" width = "600">
 
 # Implementation 
 I created this using Android Studio as my IDE. This was my first time using Kotlin.
