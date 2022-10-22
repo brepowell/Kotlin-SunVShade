@@ -1,7 +1,8 @@
 # SunVShade
 My first two-page app using Android Studio and Kotlin.
-Page 1 has a button called "find shade"
-Page 2 has a button called "find sun"
+Page 1, labeled "Sun" has a button called "Find Shade".
+Page 2, labeled as "Shade" has a button called "Find Sun".
+The user can click on each button to navigate back and forth between the two pages.
 
 <img src="2-page-navigation-page1.jpg" width = "700">
 <img src="2-page-navigation-page2.jpg" width = "700">
